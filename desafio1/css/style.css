@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Montserrat&display=swap');
+
+body {
+    font-family: 'Arimo', sans-serif;
+    margin-top: 10%;
+}
+
+.background{
+    margin-left: auto;
+    margin-right: auto; 
+    width: 900px;
+    height: 700px;
+    background: #fff;
+}
+
+
+.cabecalho{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;    
+}
+
+.texto_indent {
+    text-align: justify;
+    text-indent: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2.5cm;
+    padding-right: 2.5cm;
+    line-height: 20px;
+}
+.texto_simples {
+    padding-left: 2.5cm;
+    padding-right: 2.5cm;
+}
+
+
+.linha_horizontal {
+    margin-left: auto;
+    margin-right: auto; 
+    width: 40%;
+    height: 50px;
+    border-bottom: 1px solid black;
+    margin-top: 50px;    
+
+}
+
+.assinatura{
+    text-align: center;
+
+}
+
+
+.local_data{
+    text-align: right;
+    margin-top: 100px;
+    padding-right: 2.5cm;
+
+ }
+

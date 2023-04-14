@@ -1,0 +1,15 @@
+/desafio3/node_modules
+/desafio3/public/hot
+/desafio3/public/storage
+/desafio3/storage/*.key
+/desafio3/vendor
+/desafio3/.idea
+/desafio3/.vagrant
+/desafio3/Homestead.json
+/desafio3/Homestead.yaml
+/desafio3/npm-debug.log
+/desafio3/yarn-error.log
+/desafio3/.env
+/desafio3/pgdata
+/desafio3/docker
+/desafio3/docker-compose.yml
